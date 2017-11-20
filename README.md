@@ -1,5 +1,5 @@
 # gk-sandiso-geo-weather-app
-This app retrieves current weather based on your location.
+This app retrieves weather based on your current location.
 
 ## Installation instructions
 
